@@ -115,7 +115,7 @@ classification algorithms to achieve high prediction accuracy.
 
 ## Deployed on streamlit
 
-- Click [here]()
+- Click [here](https://disease-detector-ai.streamlit.app/)
 
 
 ## Author
