@@ -141,7 +141,7 @@ if selected_tab == "Heart Disease Prediction":
 
 # Parkinson's Disease Prediction 
 if selected_tab == "Parkinson's Prediction":
-    st.title("Parkinson's Disease Prediction")
+    st.title("Parkinson's Disease Prediction using ML")
     col1, col2, col3 = st.columns(3)
     parkinsons_inputs = []
     parkinsons_features = [
