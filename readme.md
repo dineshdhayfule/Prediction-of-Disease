@@ -1,5 +1,5 @@
 # Disease Prediction Models
-## Edunet Foundation | Shell | Artificial Intelligence with Green Technology | 4-weeks Virtual Internship 
+
 
 
 
